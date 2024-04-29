@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP_NET_Task2_Products")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73b7c9781a2a9205134d47560f547e0c081be89d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0039f6e2115df03f75184d24e2ddb2e12701898")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP_NET_Task2_Products")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP_NET_Task2_Products")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -28,3 +28,4 @@
 /Users/elgunhaqverdiyev/Desktop/WebApplication4/ASP_NET_Task2_Products/obj/Debug/net8.0/ASP_NET_Task2_Products.pdb
 /Users/elgunhaqverdiyev/Desktop/WebApplication4/ASP_NET_Task2_Products/obj/Debug/net8.0/ASP_NET_Task2_Products.genruntimeconfig.cache
 /Users/elgunhaqverdiyev/Desktop/WebApplication4/ASP_NET_Task2_Products/obj/Debug/net8.0/ref/ASP_NET_Task2_Products.dll
+/Users/elgunhaqverdiyev/Desktop/WebApplication4/ASP_NET_Task2_Products/obj/Debug/net8.0/ASP_NET_Task2_Products.sourcelink.json
